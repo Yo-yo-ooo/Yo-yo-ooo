@@ -14,7 +14,3 @@ It include my projects(OS + My website source code)
 #### Visitor Count
 <img src="https://profile-counter.glitch.me/Yo-yo-ooo/count.svg" />
 
-> [!TIP]
->使用<kbd>Ctrl</kbd>+<kbd>A</kbd>全选
-> 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
-
