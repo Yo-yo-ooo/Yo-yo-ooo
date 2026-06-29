@@ -2,7 +2,7 @@
 
 # Yo-yo-ooo
 
-<img src="https://img.shields.io/badge/Project-SkylineSystem_X86__64_Kernel-black?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Project-SkylineSystem_Kernel-black?style=for-the-badge&logo=linux" />
 <br><br>
 
 Hello, I am Yo-yo-ooo,
@@ -25,15 +25,6 @@ My journey is only beginning. My goal is to evolve these foundational building b
 ---
 
 <div align="center">
-
-### 🛠️ `Tech Stack`
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" />
-<img src="https://img.shields.io/badge/OSDev-X86__64-red?style=for-the-badge" />
-
-<br><br>
 
 ### 📊 `GitHub Stats`
 
