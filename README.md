@@ -2,12 +2,10 @@
 
 # Yo-yo-ooo
 
-<img src="https://img.shields.io/badge/Age-16-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Project-SkylineSystem_X86__64_Kernel-black?style=for-the-badge&logo=linux" />
 <br><br>
 
-Hello, I am Yo-yo-ooo, the 16-year-old developer behind the SkylineSystem x86_64 kernel.
-
+Hello, I am Yo-yo-ooo,
 I am not just learning to write operating systems; I am <b>engineering</b> them.<br> 
 My passion lies in the deepest waters of systems programming, <br>
 focusing on high performance, multicore concurrency, and modern hardware architecture.
