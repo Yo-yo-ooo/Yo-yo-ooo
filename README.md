@@ -2,7 +2,7 @@
 
 # Yo-yo-ooo
 
-<img src="https://img.shields.io/badge/Project-SkylineSystem_Kernel-black?style=for-the-badge&logo=linux" />
+<img src="https://img.shields.io/badge/Project-SkylineSystem_Operating_System-black?style=for-the-badge&logo=linux" />
 <br><br>
 
 Hello, I am Yo-yo-ooo,
